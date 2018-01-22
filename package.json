@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:9aoyang/blog.git",
   "author": "9aoyang <9aoyang@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^7.2.5",
+    "babel-preset-env": "^1.6.1",
+    "postcss-modules": "^1.1.0",
+    "posthtml-img-autosize": "^0.1.1"
+  }
 }
