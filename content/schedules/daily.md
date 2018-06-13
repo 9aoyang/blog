@@ -1,14 +1,10 @@
-# 习惯养成
+<input type="checkbox"/>GitHub (0/1)
 
-## 已养成
+<input type="checkbox"/>英语流利说(30min)
 
-1. GitHub 打卡
-1. 英语流利说每日打卡
+<input type="checkbox"/>健身 （30min）
 
-## 养成中
+<input type="checkbox"/>花切（30min）
 
-1. 健身
-
-## 待养成
-
-1. 每天一道算法题
+<input type="checkbox"/>读书 （1h）
+
