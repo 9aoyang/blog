@@ -1,9 +1,9 @@
-<input type="checkbox" />GitHub 打卡
+#
 
-<input type="checkbox" />英语流利说 (30min)
+1. 背单词 (0/1)
 
-<input type="checkbox" />健身 (30min)
+1. 英语流利说 (0/1)
 
-<input type="checkbox" />花切 (30min)
+1. Keep (0/1)
 
-<input type="checkbox" />Memorado (30min)
+1. Memorado (0/1)
