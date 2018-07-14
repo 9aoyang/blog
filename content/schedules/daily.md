@@ -6,4 +6,4 @@
 
 1. Keep (0/1)
 
-1. Memorado (0/1)
+1. Memorado (1/1)
